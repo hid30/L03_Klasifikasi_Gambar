@@ -26,6 +26,6 @@ submission/
 Lihat `requirements.txt`.
 
 ## Kontak
-- Nama: M. Hafis Afrizal
-- Email: hafisafrizal10@gmail.com
-- ID Dicoding: hafisafrizal
+- Nama: Deosa Putra Caniago
+- Email: deozaofficial0@gmail.com
+- ID Dicoding: hid30
